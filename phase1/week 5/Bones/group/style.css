@@ -1,0 +1,78 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* mobile view */
+/* header starts here */
+header {
+  background-color: red;
+  color: black;
+  padding: 20px;
+  border: 2px solid black;
+  margin-bottom: 10px;
+}
+
+nav ul {
+  display: flex;
+  list-style: none;
+  justify-content: space-between;
+}
+
+nav ul li a {
+  text-decoration: none;
+}
+
+nav ul li {
+  border: 2px solid black;
+  padding: 1% 4%; 
+}
+
+nav {
+  width: 80%;
+  margin: 0 10px 0 8px;
+}
+
+.how {
+  display: none;
+}
+
+h3 {
+  display: none;
+}
+
+.Green {
+  border: 2px solid black;
+  background-color: yellow;
+  display: flex;
+  justify-content: space-evenly;
+  width: 95%;
+  height: 200px;
+  margin: 0 auto;
+}
+
+.Green-1, .Green-2 {
+    width: 45%;
+    margin:15px 0;
+    border: 2px solid black;
+    background-color:#69a90a; 
+}
+
+.Large-Gray {
+    border: 2px solid black;
+    width: 70%;
+    height: 70%;
+    margin: 10px auto;
+
+}
+
+.Gray-Top {
+    background-color: #c3c3c3;
+    border: 2px solid black;
+    width: 80%;
+    height: 220px;
+    margin: 40px;
+}
+
+/* header end here */

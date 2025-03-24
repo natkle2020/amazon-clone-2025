@@ -1,0 +1,5 @@
+body{background-color: aqua;}
+
+.rectangle {;background-color: gray; width: 700px;line-height: 500px;display: inline-block ;stroke-linejoin;}
+
+.rectangle{margin-left: 200px;  margin-right: auto; display: block;  margin-bottom: 200px;    }
